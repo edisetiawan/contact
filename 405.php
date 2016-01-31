@@ -316,6 +316,8 @@ a.link span {
 									<span class="slash">|</span> 
 									<a href="/help" title="Help" class="link"> 
 										<span>Bantuan </span> 
+										
+										test
 									</a> 
 								</li>  -->
 							</ul> 
