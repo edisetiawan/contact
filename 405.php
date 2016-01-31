@@ -339,3 +339,5 @@ a.link span {
 </script> 
 </body> 
 </html>
+<!-- create developer code indonesia -->
+<!-- welcome startup developer newbie --> 
