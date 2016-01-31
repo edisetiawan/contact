@@ -5,7 +5,7 @@
 <head profile="http://gmpg.org/xfn/11"> 
 <!-- title --> 
 <title>OLX.co.id - Error</title> 
-<!-- site icons --> 
+<!-- site icons your --> 
 <link rel="shortcut icon" href="/olxid/img/favicon.ico" type="image/x-icon" /> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
 <meta name="robots" content="noindex, nofollow" /> 
